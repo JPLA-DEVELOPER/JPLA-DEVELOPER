@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá! 👋 Eu sou João Paulo Lima  
+### Desenvolvedor Full-Stack | Apaixonado por Programação e Inovação 🚀  
 
-<!--
-**JPLA-DEVELOPER/JPLA-DEVELOPER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 **Graduando em Ciências da Computação** – IFCE (Campus Tianguá)  
+- 💻 Experiência com: HTML, JavaScript, CSS, Node.js, Express.js e MySQL, Sequelize ORM, Bootstrap, Design System do Governo Federal, Metodologias ágeis (Scrum).    
+- 🎯 Buscando oportunidades para colaborar e aprender com times incríveis!  
 
-Here are some ideas to get you started:
+## 🚀 Projetos Destacados
+- 🔗 [e-TCC: Plataforma Web para Gerenciamento de TCCs](https://etcc.onrender.com/)  
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📬 Entre em Contato  
+- [LinkedIn](https://linkedin.com/in/jpladeveloper)  
+ 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jpla-developer&show_icons=true&theme=radical)
