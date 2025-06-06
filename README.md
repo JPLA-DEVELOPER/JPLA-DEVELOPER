@@ -1,7 +1,7 @@
 # Olá! 👋 Eu sou João Paulo Lima  
 ### Desenvolvedor Full-Stack | Apaixonado por Programação e Inovação 🚀  
 
-- 🎓 **Graduando em Ciências da Computação** – IFCE (Campus Tianguá)  
+- 🎓 **Graduado em Ciências da Computação** – IFCE (Campus Tianguá)  
 - 💻 Experiência com: HTML, JavaScript, CSS, Node.js, Express.js e MySQL, Sequelize ORM, Bootstrap, Design System do Governo Federal, Metodologias ágeis (Scrum).    
 - 🎯 Buscando oportunidades para colaborar e aprender com times incríveis!  
 
