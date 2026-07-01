@@ -2,7 +2,7 @@
 ### Desenvolvedor Full-Stack | Apaixonado por Programação e Inovação 🚀  
 
 - 🎓 **Graduado em Ciências da Computação** – IFCE (Campus Tianguá)  
-- 💻 Experiência com: HTML, JavaScript, CSS, Node.js, Express.js e MySQL, Sequelize ORM, Bootstrap, Design System do Governo Federal, Metodologias ágeis (Scrum).    
+- 💻 Experiência com: Node.js, Express.js, JavaScript, TypeScript, HTML, CSS, MySQL, Sequelize ORM, Bootstrap, Docker, Design System do Governo Federal, Metodologias ágeis (Scrum).    
 - 🎯 Buscando oportunidades para colaborar e aprender com times incríveis!  
 
 ## 🚀 Projetos Destacados
