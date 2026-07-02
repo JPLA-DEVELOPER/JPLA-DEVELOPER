@@ -6,6 +6,7 @@
 - 🎯 Buscando oportunidades para colaborar e aprender com times incríveis!  
 
 ## 🚀 Projetos Destacados
+- 🔗 [SaaS locadora de equipamentos para obras](https://github.com/JPLA-DEVELOPER/saas-locadora) 
 - 🔗 [e-TCC: Plataforma Web para Gerenciamento de TCCs](https://etcc.onrender.com/)  
   
 
